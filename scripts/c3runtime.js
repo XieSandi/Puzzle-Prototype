@@ -3005,6 +3005,7 @@ WaypointYAt(i){return this._GetWaypointYAt(i)}}};
 		C3.Behaviors.MoveTo.Acts.MoveToObject,
 		C3.Plugins.Sprite.Cnds.OnCollision,
 		C3.Behaviors.Pathfinding.Acts.Stop,
+		C3.Plugins.System.Acts.Wait,
 		C3.Plugins.System.Acts.GoToLayout,
 		C3.Plugins.Sprite.Acts.SetPos,
 		C3.Behaviors.Pathfinding.Acts.RegenerateMap,
