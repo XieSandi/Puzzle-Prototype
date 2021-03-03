@@ -1,6 +1,6 @@
 {
-	"name": "Xie Prototype",
-	"short_name": "Xie Prototype",
+	"name": "Pathfinding demo",
+	"short_name": "Pathfinding demo",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
